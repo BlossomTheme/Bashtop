@@ -1,0 +1,82 @@
+# Blossom Color Theme for Bashtop
+
+# Main background
+theme[main_bg]="#10111b"
+
+# Main text
+theme[main_fg]="#FF058D"
+
+# Box Title color
+theme[title]="#9200ff"
+
+# Higlight color for keyboard shortcuts
+theme[hi_fg]="#f70047"
+
+# Selected Item BG Color
+theme[selected_bg]="#403a72"
+
+# Selected Item FG Color
+theme[selected_fg]="#00ff7d"
+
+# Inactive/disabled text color
+theme[inactive_fg]="#34e2e2"
+
+###
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#ff0eff"
+
+Cpu box outline color
+theme[cpu_box]="#FF058D"
+
+# Memory/disks box outline color
+theme[mem_box]="#FF058D"
+
+# Net up/down box outline color
+theme[net_box]="#FF058D"
+
+# Processes box outline color
+theme[proc_box]="#FF058D"
+
+# Box divider line and small boxes line color
+theme[div_line]="#FF058D"
+
+# Temperature graph colors
+theme[temp_start]="#55ff55"
+theme[temp_mid]="#fcdd42"
+theme[temp_end]="#f70047"
+
+# CPU graph colors
+theme[cpu_start]="#55ff55"
+theme[cpu_mid]="#55ff55"
+theme[cpu_end]="#55ff55"
+
+# Mem/Disk free meter
+theme[free_start]="#55ff55"
+theme[free_mid]="#55ff55"
+theme[free_end]="#55ff55"
+
+# Mem/Disk cached meter
+theme[cached_start]="#55ff55"
+theme[cached_mid]="#55ff55"
+theme[cached_end]="#55ff55"
+
+# Mem/Disk available meter
+theme[available_start]="#55ff55"
+theme[available_mid]="#55ff55"
+theme[available_end]="#55ff55"
+
+# Mem/Disk used meter
+theme[used_start]="#55ff55"
+theme[used_mid]="#55ff55"
+theme[used_end]="#55ff55"
+
+# Download graph colors
+theme[download_start]="#55ff55"
+theme[download_mid]="#55ff55"
+theme[download_end]="#55ff55"
+
+# Upload graph colors
+theme[upload_start]="#55ff55"
+theme[upload_mid]="#55ff55"
+theme[upload_end]="#55ff55"
