@@ -21,25 +21,23 @@ theme[selected_fg]="#00ff7d"
 # Inactive/disabled text color
 theme[inactive_fg]="#34e2e2"
 
-###
-
-# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+# Mini cpu graphs, details memory graph and details status text Color
 theme[proc_misc]="#ff0eff"
 
 Cpu box outline color
 theme[cpu_box]="#FF058D"
 
 # Memory/disks box outline color
-theme[mem_box]="#FF058D"
+theme[mem_box]="#f46e00"
 
 # Net up/down box outline color
 theme[net_box]="#FF058D"
 
 # Processes box outline color
-theme[proc_box]="#FF058D"
+theme[proc_box]="#26b3d2"
 
 # Box divider line and small boxes line color
-theme[div_line]="#FF058D"
+theme[div_line]="#f46e00"
 
 # Temperature graph colors
 theme[temp_start]="#55ff55"
